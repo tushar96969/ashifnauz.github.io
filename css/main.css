@@ -1,0 +1,68 @@
+html,body {
+  
+  font-family: times;
+  
+  background-color: coral;
+}
+
+.about  ,.knowledge,
+.lifeexperience {
+
+  padding: 20px 50px;
+  
+  margin: 20px 100px;
+  
+  border-radius: 50px;
+
+}
+
+.about {margin-top: 0;
+
+}
+
+.header {
+  
+  text-align: center;
+  
+  }
+
+
+  li
+ 
+ {
+  padding: 20px 25px;
+
+  color: black;
+
+}
+
+
+.header  .logo
+
+{
+  margin:0 auto;
+  
+  width:200px;
+  
+ 
+}
+
+.header  .logo img {
+  
+  width: 100%;
+
+ 
+  }
+
+
+.footer {
+  
+  background: black;
+
+  color: red;
+
+   text-align: center;
+
+    
+  
+}
